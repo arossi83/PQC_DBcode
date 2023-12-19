@@ -1,10 +1,10 @@
 #!/bin/bash
 
-WORKDIR="/Users/alessandro/Documents/CMS/Phase2/PQC/DBcode/"
-DONEDIR="/Users/alessandro/Documents/CMS/Phase2/PQC/DBcode/Loaded/"
-NEWDIR="/Users/alessandro/Documents/CMS/Phase2/PQC/DBcode/New/"
-ISSUEDIR="/Users/alessandro/Documents/CMS/Phase2/PQC/DBcode/Issue/"
-LOGDIR="/Users/alessandro/Documents/CMS/Phase2/PQC/DBcode/Logs/"
+WORKDIR="/home/ubuntu/PQC_DBcode/"
+DONEDIR="/home/ubuntu/PQC_DBcode/Loaded/"
+NEWDIR="/home/ubuntu/PQC_DBcode/New/"
+ISSUEDIR="/home/ubuntu/PQC_DBcode/Issue/"
+LOGDIR="/home/ubuntu/PQC_DBcode/Logs/"
 
 #cd $WORKDIR
 files=`ls ${NEWDIR}*.zip`
