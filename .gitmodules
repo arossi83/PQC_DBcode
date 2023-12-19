@@ -1,0 +1,9 @@
+[submodule "Conversion_txt_to_XML"]
+	path = Conversion_txt_to_XML
+	url = git@github.com:arossi83/Conversion_txt_to_XML.git
+[submodule "PQC_Analysis_Perugia"]
+	path = PQC_Analysis_Perugia
+	url = git@github.com:arossi83/PQC_Analysis_Perugia.git
+[submodule "cmsdbldr"]
+	path = cmsdbldr
+	url = git@github.com:valdasraps/cmsdbldr.git
